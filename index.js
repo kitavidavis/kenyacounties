@@ -5,7 +5,7 @@
  * Released under the MIT License
  */
 
-import counties from './counties';
+const counties = require('./counties.json')
 
 module.exports = {
 
@@ -74,7 +74,7 @@ module.exports = {
          * @param name
          * @returns []
          */
-        
+
         if(typeof(name) !== string){
             throw new TypeError("County name should explicitely be a string");
         }
@@ -85,4 +85,4 @@ module.exports = {
             }
         })
     }
-}
+};

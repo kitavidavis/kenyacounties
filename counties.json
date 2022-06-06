@@ -1,4 +1,4 @@
-const counties = [
+ [
     {
         "name": "Baringo",
         "capital": "Kabarnet",
@@ -630,5 +630,3 @@ const counties = [
         ]
     }
 ]
-
-export default counties;
