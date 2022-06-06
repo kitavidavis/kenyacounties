@@ -13,7 +13,7 @@ const KenyaCounties = require ('kenyacounties')
 
 # Getting full kenya counties data
 ```
-let counties = KenyaCounties()
+let counties = KenyaCounties.getAll()
 console.log(counties)
 ```
 

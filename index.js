@@ -7,7 +7,7 @@
 
 import counties from './counties';
 
-module.exports = function(){
+module.exports.getAll = function(){
     return counties;
 }
 
