@@ -1,0 +1,25 @@
+{
+  "name": "kenyacounties",
+  "version": "1.0.0",
+  "description": "An npm package for rendering all kenyan counties to be used in Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitavidavis/kenyacounties.git"
+  },
+  "keywords": [
+    "Kenya",
+    "Counties",
+    "NPM",
+    "Nodejs"
+  ],
+  "author": "David Kitavi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kitavidavis/kenyacounties/issues"
+  },
+  "homepage": "https://github.com/kitavidavis/kenyacounties#readme"
+}
