@@ -36,12 +36,11 @@ module.exports = {
         }
     
         counties.map((item) => {
-            if(item.code === code){
+            if(item.code == code){
                 return item;
             }
         });
     
-        return null;
     },
 
     getSubCountiesByCountyCode: function(code){
@@ -63,7 +62,7 @@ module.exports = {
         }
     
         counties.map((item) => {
-            if(item.code === code){
+            if(item.code == code){
                 return item.sub_counties;
             }
         });
@@ -80,7 +79,7 @@ module.exports = {
         }
     
         counties.map((item) => {
-            if(item.name.toLowerCase() === name.toLowerCase()){
+            if(item.name.toLowerCase() == name.toLowerCase()){
                 return item.sub_counties;
             }
         })
