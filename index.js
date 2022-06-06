@@ -38,7 +38,7 @@ module.exports = {
         }
     
         counties.filter((item) => {
-            if(item.code == code){
+            if(item.value == code){
                 obj = item
             }
         });
@@ -67,7 +67,7 @@ module.exports = {
         }
     
         counties.map((item) => {
-            if(item.code == code){
+            if(item.value == code){
                 obj = item.sub_counties;
             }
         });
@@ -88,7 +88,7 @@ module.exports = {
         }
     
         counties.map((item) => {
-            if(item.name.toLowerCase() == name.toLowerCase()){
+            if(item.label.toLowerCase() == name.toLowerCase()){
                 obj = item.sub_counties;
             }
         })

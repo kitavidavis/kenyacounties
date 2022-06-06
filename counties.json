@@ -1,8 +1,8 @@
  [
     {
-        "name": "Baringo",
+        "label": "Baringo",
         "capital": "Kabarnet",
-        "code": 30,
+        "value": 30,
         "sub_counties": [
             "Baringo central",
             "Baringo north",
@@ -13,9 +13,9 @@
         ]
     },
     {
-        "name": "Bomet",
+        "label": "Bomet",
         "capital": "Bomet",
-        "code": 36,
+        "value": 36,
         "sub_counties": [
             "Bomet central",
             "Bomet east",
@@ -25,9 +25,9 @@
         ]
     },
     {
-        "name": "Bungoma",
+        "label": "Bungoma",
         "capital": "Bungoma",
-        "code": 39,
+        "value": 39,
         "sub_counties": [
             "Bumula",
             "Kabuchai",
@@ -41,9 +41,9 @@
         ]
     },
     {
-        "name": "Busia",
+        "label": "Busia",
         "capital": "Busia",
-        "code": 40,
+        "value": 40,
         "sub_counties": [
             "Budalangi",
             "Butula",
@@ -54,9 +54,9 @@
         ]
     },
     {
-        "name": "Elgeyo-Marakwet",
+        "label": "Elgeyo-Marakwet",
         "capital": "Iten",
-        "code": 28,
+        "value": 28,
         "sub_counties": [
             "Keiyo north",
             "Keiyo south",
@@ -65,9 +65,9 @@
         ]
     },
     {
-        "name": "Embu",
+        "label": "Embu",
         "capital": "Embu",
-        "code": 14,
+        "value": 14,
         "sub_counties": [
             "Manyatta",
             "Mbeere north",
@@ -76,9 +76,9 @@
         ]
     },
     {
-        "name": "Garissa",
+        "label": "Garissa",
         "capital": "Garissa",
-        "code": 7,
+        "value": 7,
         "sub_counties": [
             "Daadab",
             "Fafi",
@@ -89,9 +89,9 @@
         ]
     },
     {
-        "name": "Homa Bay",
+        "label": "Homa Bay",
         "capital": "Homa Bay",
-        "code": 43,
+        "value": 43,
         "sub_counties": [
             "Homabay town",
             "Kabondo",
@@ -104,9 +104,9 @@
         ]
     },
     {
-        "name": "Isiolo",
+        "label": "Isiolo",
         "capital": "Isiolo",
-        "code": 11,
+        "value": 11,
         "sub_counties": [
             "Central",
             "Garba tula",
@@ -117,8 +117,8 @@
         ]
     },
     {
-        "name": "Kajiado",
-        "code": 34,
+        "label": "Kajiado",
+        "value": 34,
         "sub_counties": [
             "Isinya.",
             "Kajiado Central.",
@@ -128,9 +128,9 @@
         ]
     },
     {
-        "name": "Kakamega",
+        "label": "Kakamega",
         "capital": "Kakamega",
-        "code": 37,
+        "value": 37,
         "sub_counties": [
             "Butere",
             "Kakamega central",
@@ -148,9 +148,9 @@
         ]
     },
     {
-        "name": "Kericho",
+        "label": "Kericho",
         "capital": "Kericho",
-        "code": 35,
+        "value": 35,
         "sub_counties": [
             "Ainamoi",
             "Belgut",
@@ -161,9 +161,9 @@
         ]
     },
     {
-        "name": "Kiambu",
+        "label": "Kiambu",
         "capital": "Kiambu",
-        "code": 22,
+        "value": 22,
         "sub_counties": [
             "Gatundu north",
             "Gatundu south",
@@ -180,9 +180,9 @@
         ]
     },
     {
-        "name": "Kilifi",
+        "label": "Kilifi",
         "capital": "Kilifi",
-        "code": 3,
+        "value": 3,
         "sub_counties": [
             "Genzw",
             "Kaloleni",
@@ -194,9 +194,9 @@
         ]
     },
     {
-        "name": "Kirinyaga",
+        "label": "Kirinyaga",
         "capital": "Kerugoya/Kutus",
-        "code": 20,
+        "value": 20,
         "sub_counties": [
             "Kirinyaga central",
             "Kirinyaga east",
@@ -206,17 +206,17 @@
         ]
     },
     {
-        "name": "Kisii",
+        "label": "Kisii",
         "capital": "Kisii",
-        "code": 45,
+        "value": 45,
         "sub_counties": [
             
         ]
     },
     {
-        "name": "Kisumu",
+        "label": "Kisumu",
         "capital": "Kisumu",
-        "code": 42,
+        "value": 42,
         "sub_counties": [
             "Kisumu central",
             "Kisumu east ",
@@ -228,9 +228,9 @@
         ]
     },
     {
-        "name": "Kitui",
+        "label": "Kitui",
         "capital": "Kitui",
-        "code": 15,
+        "value": 15,
         "sub_counties": [
             "Ikutha",
             "Katulani",
@@ -250,9 +250,9 @@
         ]
     },
     {
-        "name": "Kwale",
+        "label": "Kwale",
         "capital": "Kwale",
-        "code": 2,
+        "value": 2,
         "sub_counties": [
             "Kinango",
             "Lungalunga",
@@ -261,9 +261,9 @@
         ]
     },
     {
-        "name": "Laikipia",
+        "label": "Laikipia",
         "capital": "Rumuruti",
-        "code": 31,
+        "value": 31,
         "sub_counties": [
             "Laikipia central",
             "Laikipia east",
@@ -273,18 +273,18 @@
         ]
     },
     {
-        "name": "Lamu",
+        "label": "Lamu",
         "capital": "Lamu",
-        "code": 5,
+        "value": 5,
         "sub_counties": [
             "Lamu East",
             "Lamu West"
         ]
     },
     {
-        "name": "Machakos",
+        "label": "Machakos",
         "capital": "Machakos",
-        "code": 16,
+        "value": 16,
         "sub_counties": [
             "Kathiani",
             "Machakos town",
@@ -296,9 +296,9 @@
         ]
     },
     {
-        "name": "Makueni",
+        "label": "Makueni",
         "capital": "Wote",
-        "code": 17,
+        "value": 17,
         "sub_counties": [
             "Kaiti",
             "Kibwei west",
@@ -309,9 +309,9 @@
         ]
     },
     {
-        "name": "Mandera",
+        "label": "Mandera",
         "capital": "Mandera",
-        "code": 9,
+        "value": 9,
         "sub_counties": [
             "Banissa",
             "Lafey",
@@ -322,9 +322,9 @@
         ]
     },
     {
-        "name": "Marsabit",
+        "label": "Marsabit",
         "capital": "Marsabit",
-        "code": 10,
+        "value": 10,
         "sub_counties": [
             "Laisamis",
             "Moyale",
@@ -333,9 +333,9 @@
         ]
     },
     {
-        "name": "Meru",
+        "label": "Meru",
         "capital": "Meru",
-        "code": 12,
+        "value": 12,
         "sub_counties": [
             "Buuri",
             "Igembe central",
@@ -349,9 +349,9 @@
         ]
     },
     {
-        "name": "Migori",
+        "label": "Migori",
         "capital": "Migori",
-        "code": 44,
+        "value": 44,
         "sub_counties": [
             "Awendo",
             "Kuria east",
@@ -365,9 +365,9 @@
         ]
     },
     {
-        "name": "Mombasa",
+        "label": "Mombasa",
         "capital": "Mombasa City",
-        "code": 1,
+        "value": 1,
         "sub_counties": [
             "Changamwe",
             "Jomvu",
@@ -378,9 +378,9 @@
         ]
     },
     {
-        "name": "Murang'a",
+        "label": "Murang'a",
         "capital": "Murang'a",
-        "code": 21,
+        "value": 21,
         "sub_counties": [
             "Gatanga",
             "Kahuro",
@@ -393,9 +393,9 @@
         ]
     },
     {
-        "name": "Nairobi",
+        "label": "Nairobi",
         "capital": "Nairobi City",
-        "code": 47,
+        "value": 47,
         "sub_counties": [
             "Dagoretti North Sub County",
             "Dagoretti South Sub County ",
@@ -417,9 +417,9 @@
         ]
     },
     {
-        "name": "Nakuru",
+        "label": "Nakuru",
         "capital": "Nakuru",
-        "code": 32,
+        "value": 32,
         "sub_counties": [
             "Bahati",
             "Gilgil",
@@ -435,9 +435,9 @@
         ]
     },
     {
-        "name": "Nandi",
+        "label": "Nandi",
         "capital": "Kapsabet",
-        "code": 29,
+        "value": 29,
         "sub_counties": [
             "Aldai",
             "Chesumei",
@@ -448,9 +448,9 @@
         ]
     },
     {
-        "name": "Narok",
+        "label": "Narok",
         "capital": "Narok",
-        "code": 33,
+        "value": 33,
         "sub_counties": [
             "Narok east",
             "Narok north",
@@ -461,9 +461,9 @@
         ]
     },
     {
-        "name": "Nyamira",
+        "label": "Nyamira",
         "capital": "Nyamira",
-        "code": 46,
+        "value": 46,
         "sub_counties": [
             "Borabu",
             "Manga",
@@ -473,9 +473,9 @@
         ]
     },
     {
-        "name": "Nyandarua",
+        "label": "Nyandarua",
         "capital": "Ol Kalou",
-        "code": 18,
+        "value": 18,
         "sub_counties": [
             "Kinangop",
             "Kipipiri",
@@ -485,9 +485,9 @@
         ]
     },
     {
-        "name": "Nyeri",
+        "label": "Nyeri",
         "capital": "Nyeri",
-        "code": 19,
+        "value": 19,
         "sub_counties": [
             "Kieni east",
             "Kieni west",
@@ -500,9 +500,9 @@
         ]
     },
     {
-        "name": "Samburu",
+        "label": "Samburu",
         "capital": "Maralal",
-        "code": 25,
+        "value": 25,
         "sub_counties": [
             "Samburu east",
             "Samburu north",
@@ -510,9 +510,9 @@
         ]
     },
     {
-        "name": "Siaya",
+        "label": "Siaya",
         "capital": "Siaya",
-        "code": 41,
+        "value": 41,
         "sub_counties": [
             "Alego usonga",
             "Bondo",
@@ -523,9 +523,9 @@
         ]
     },
     {
-        "name": "Taita-Taveta",
+        "label": "Taita-Taveta",
         "capital": "Voi",
-        "code": 6,
+        "value": 6,
         "sub_counties": [
             "Mwatate",
             "Taveta",
@@ -534,9 +534,9 @@
         ]
     },
     {
-        "name": "Tana River",
+        "label": "Tana River",
         "capital": "Hola",
-        "code": 4,
+        "value": 4,
         "sub_counties": [
             "Bura",
             "Galole",
@@ -544,9 +544,9 @@
         ]
     },
     {
-        "name": "Tharaka-Nithi",
+        "label": "Tharaka-Nithi",
         "capital": "Chuka",
-        "code": 13,
+        "value": 13,
         "sub_counties": [
             "Chuka",
             "Igambangobe",
@@ -557,9 +557,9 @@
         ]
     },
     {
-        "name": "Trans-Nzoia",
+        "label": "Trans-Nzoia",
         "capital": "Kitale",
-        "code": 26,
+        "value": 26,
         "sub_counties": [
             "Cherangany",
             "Endebess",
@@ -569,9 +569,9 @@
         ]
     },
     {
-        "name": "Turkana",
+        "label": "Turkana",
         "capital": "Lodwar",
-        "code": 23,
+        "value": 23,
         "sub_counties": [
             "Loima",
             "Turkana central",
@@ -581,9 +581,9 @@
         ]
     },
     {
-        "name": "Uasin Gishu",
+        "label": "Uasin Gishu",
         "capital": "Eldoret",
-        "code": 27,
+        "value": 27,
         "sub_counties": [
             "Ainabkoi",
             "Kapseret",
@@ -594,9 +594,9 @@
         ]
     },
     {
-        "name": "Vihiga",
+        "label": "Vihiga",
         "capital": "Vihiga",
-        "code": 38,
+        "value": 38,
         "sub_counties": [
             "Emuhaya",
             "Hamisi",
@@ -606,9 +606,9 @@
         ]
     },
     {
-        "name": "Wajir",
+        "label": "Wajir",
         "capital": "Wajir",
-        "code": 8,
+        "value": 8,
         "sub_counties": [
             "Eldas",
             "Tarbaj",
@@ -619,9 +619,9 @@
         ]
     },
     {
-        "name": "West Pokot",
+        "label": "West Pokot",
         "capital": "Kapenguria",
-        "code": 24,
+        "value": 24,
         "sub_counties": [
             "Central Pokot",
             "North Pokot",
