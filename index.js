@@ -23,7 +23,7 @@ module.exports = {
          * @returns {}
          */
 
-        if(typeof(code) !== number){
+        if(typeof(code) !== 'number'){
             throw new TypeError("County code must be a number!");
         }
     
@@ -50,7 +50,7 @@ module.exports = {
          * @returns []
          */
 
-        if(typeof(code) !== number){
+        if(typeof(code) !== 'number'){
             throw new TypeError("County code must be a number!");
         }
     
@@ -75,7 +75,7 @@ module.exports = {
          * @returns []
          */
 
-        if(typeof(name) !== string){
+        if(typeof(name) !== 'string'){
             throw new TypeError("County name should explicitely be a string");
         }
     
