@@ -35,10 +35,8 @@ module.exports = {
             throw new RangeError("Code should be in a range of 0-47");
         }
     
-        counties.map((item) => {
-            if(item.code == code){
-                return item;
-            }
+        counties.filter((item) => {
+            return item.code == code;
         });
     
     },
@@ -48,6 +46,7 @@ module.exports = {
          * @param code
          * @returns []
          */
+        let obj = [];
 
         if(typeof(code) !== 'number'){
             throw new TypeError("County code must be a number!");
@@ -63,9 +62,11 @@ module.exports = {
     
         counties.map((item) => {
             if(item.code == code){
-                return item.sub_counties;
+                obj = item;
             }
         });
+
+        return obj;
     },
 
     getSubCountiesByCountyName: function(name){
@@ -74,14 +75,18 @@ module.exports = {
          * @returns []
          */
 
+        let obj = [];
+
         if(typeof(name) !== 'string'){
             throw new TypeError("County name should explicitely be a string");
         }
     
         counties.map((item) => {
             if(item.name.toLowerCase() == name.toLowerCase()){
-                return item.sub_counties;
+                obj = item.sub_counties;
             }
         })
+
+        return obj;
     },
 };
