@@ -5,7 +5,6 @@
  * Released under the MIT License
  */
 
-'use strict';
 import counties from './counties';
 
 module.exports = function(){

@@ -8,7 +8,7 @@ npm install --save kenyacounties
 
 # Usage
 ```
-import KenyaCounties from 'kenyacounties'
+const KenyaCounties = require ('kenyacounties')
 ```
 
 # Getting full kenya counties data
