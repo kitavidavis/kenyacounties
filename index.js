@@ -5,7 +5,7 @@
  * Released under the MIT License
  */
 
-const counties = require('./counties.json')
+const counties = require('./counties.json');
 
 module.exports = {
 
@@ -23,6 +23,8 @@ module.exports = {
          * @returns {}
          */
 
+        let obj = {};
+
         if(typeof(code) !== 'number'){
             throw new TypeError("County code must be a number!");
         }
@@ -36,8 +38,12 @@ module.exports = {
         }
     
         counties.filter((item) => {
-            return item.code == code;
+            if(item.code == code){
+                obj = item
+            }
         });
+
+        return obj;
     
     },
 
@@ -62,7 +68,7 @@ module.exports = {
     
         counties.map((item) => {
             if(item.code == code){
-                obj = item;
+                obj = item.sub_counties;
             }
         });
 
