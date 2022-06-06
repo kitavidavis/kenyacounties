@@ -84,5 +84,5 @@ module.exports = {
                 return item.sub_counties;
             }
         })
-    }
+    },
 };
